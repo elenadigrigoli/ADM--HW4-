@@ -1,4 +1,4 @@
-# **ADM--HW4**
+# **HomeWork 4 - ADM**
 # **Movie Recommendation System**
 ADM | Sapienza University of Rome
 This repository contains the solution to Homework 4, which focuses on implementing a Movie Recommendation System and performing clustering of movies based on their features.
@@ -56,5 +56,10 @@ This repository contains the solution to Homework 4, which focuses on implementi
 - Analyze the algorithm's efficiency and time complexity.
 - Optimize it (if needed) and compare results with the original.
 - Use an LLM to suggest improvements and evaluate its solution.
+
+elenadigrigoli@gmail.com
+emilioleone1402@gmail.com
+dawood0007@gmail.com
+dubkov.1785837@studenti.uniroma1.it
 
 
