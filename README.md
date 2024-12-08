@@ -1,4 +1,7 @@
 # **HomeWork 4 - ADM**
+
+The notebook file is too large to render on GitHub. You can download it from the following link:
+[Download ADM-4 final.ipynb](https://drive.google.com/file/d/ID_DEL_FILE/view?usp=sharing)
 # **Movie Recommendation System**
 ADM | Sapienza University of Rome
 This repository contains the solution to Homework 4, which focuses on implementing a Movie Recommendation System and performing clustering of movies based on their features.
